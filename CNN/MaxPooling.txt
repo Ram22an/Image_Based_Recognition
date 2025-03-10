@@ -1,0 +1,6 @@
+OverFitting
+Your model memorizes training data instead of learning patterns, 
+so it performs well on known data but fails on new data.
+
+Max Pooling is a technique used in Convolutional Neural Networks (CNNs) to 
+reduce the size of images while keeping the most important features.

@@ -1,0 +1,27 @@
+What is ReLU?
+ReLU (Rectified Linear Unit) is an activation function used in neural networks, 
+especially in Convolutional Neural Networks (CNNs) and Deep Learning models. 
+It introduces non-linearity, which helps the model learn complex patterns.
+
+ReLU Formula:
+f(x)=max(0,x)
+This means:
+
+If x > 0, keep x
+If x ≤ 0, make it 0
+📌 Example:
+If you pass these numbers through ReLU:
+
+Input (x)	Output (ReLU(x))
+    -5	            0
+    0	            0
+    3	            3
+    -2	            0
+    7	            7
+
+Where is ReLU Used?
+✅ Image Classification (CNNs) – Helps detect features like edges, textures, and shapes.
+✅ Speech Recognition – Helps deep networks learn patterns in audio data.
+✅ Natural Language Processing (NLP) – Used in transformers and RNNs to process text efficiently.
+✅ Deep Reinforcement Learning – Used in AI models like self-driving cars and game-playing bots.
+
